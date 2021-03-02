@@ -6258,10 +6258,10 @@ num2fraction@^1.2.2:
   resolved "https://registry.yarnpkg.com/num2fraction/-/num2fraction-1.2.2.tgz#6f682b6a027a4e9ddfa4564cd2589d1d4e669ede"
   integrity sha1-b2gragJ6Tp3fpFZM0lidHU5mnt4=
 
-nuxt-vite@^0.0.20:
-  version "0.0.20"
-  resolved "https://registry.yarnpkg.com/nuxt-vite/-/nuxt-vite-0.0.20.tgz#4ba2250e307b4851d4418607aba0e473bb276bda"
-  integrity sha512-wnXGXW72i4m80t6LqdAKQ9vUzgsYgF4TsgF2E6jKxXtlAeHPgnDY+WJQ2k8SC3qYmEVrzD3EAtT6mouhY99XNw==
+nuxt-vite@^0.0.22:
+  version "0.0.22"
+  resolved "https://registry.yarnpkg.com/nuxt-vite/-/nuxt-vite-0.0.22.tgz#163db81a164225fddc07b23d8224131db20379df"
+  integrity sha512-2oRWXMz4PdGGrXfgxm19VHLfhl5pN3yHwYIDwb3bTSCnHv0/HdMWyxhlX6n8NcJhJzfXEgikI0Mz+7mLnioHyw==
   dependencies:
     "@nuxt/http" "^0.6.4"
     chokidar "^3.5.1"
