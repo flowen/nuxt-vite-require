@@ -6847,10 +6847,10 @@ num2fraction@^1.2.2:
   resolved "https://registry.yarnpkg.com/num2fraction/-/num2fraction-1.2.2.tgz#6f682b6a027a4e9ddfa4564cd2589d1d4e669ede"
   integrity sha1-b2gragJ6Tp3fpFZM0lidHU5mnt4=
 
-nuxt-vite@^0.3.4:
-  version "0.3.4"
-  resolved "https://registry.yarnpkg.com/nuxt-vite/-/nuxt-vite-0.3.4.tgz#63b384cc2379f84a6229db37a051713316bfb778"
-  integrity sha512-/u207kdvWio+BVBUx+E6isiLiFLep/HgIBBEk1Vve2KWwldIy66/FHj81wwPmyqlJaUGQvX9eXaFw8fk/MoC8g==
+nuxt-vite@^0.3.5:
+  version "0.3.5"
+  resolved "https://registry.yarnpkg.com/nuxt-vite/-/nuxt-vite-0.3.5.tgz#89e01fdb1d28c4d3c5cc82f6d1efc77a46332205"
+  integrity sha512-rAtmMycDU4k88S/H8WiCCqzr99lnYPTxgekU7+HYVoLHE62aol2E0/ci1MjBfBVg5DbhKHvqDn1nLCL5ye4Vsg==
   dependencies:
     "@vitejs/plugin-legacy" "^1.6.0"
     consola "^2.15.3"
